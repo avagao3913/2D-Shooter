@@ -28,7 +28,10 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        if (Input.GetMouseButtonDown(0))
+        {
+            this.GetComponent<AudioSource>().Play();
+        }
     }
     void Spawn() {
         float x = Random.Range(-7.0f, 7.0f);

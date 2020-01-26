@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{C5522983-B4F5-1ADD-2BDE-1168EE0FC3CA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameManager.cs">
+    <Files>
+      <File FileName="Assets/TargetController.cs" Line="12" Column="1" />
+      <File FileName="Assets/TargetController.cs" Line="11" Column="2" />
+      <File FileName="Assets/GameManager.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2D-Shooter" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="GameManager.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="900a0410-f621-41cc-875e-ccdaf6b8186a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mroseberry/avagao/2D-Shooter/Assets/TargetController.cs" relfile="Assets/TargetController.cs" line="10" column="1" />
+      <Breakpoint file="/Users/mroseberry/avagao/2D-Shooter/Assets/GameManager.cs" relfile="Assets/GameManager.cs" line="14" column="1" />
+      <Breakpoint file="/Users/mroseberry/avagao/2D-Shooter/Assets/GameManager.cs" relfile="Assets/GameManager.cs" line="19" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
